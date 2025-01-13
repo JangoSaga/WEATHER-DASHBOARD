@@ -9,4 +9,5 @@
 Tech stack used: REACT, TAILWIND.
 ## FEATURES: responsive, user friendly.
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/c8eda697-9fd4-43b9-9289-64a2504258b7)
 
